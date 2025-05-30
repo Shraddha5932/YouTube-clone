@@ -8,21 +8,17 @@ A simple front-end clone of YouTube built using **HTML** and **CSS**. This proje
 
 ## 📸 Screenshots
 
-| Home Page | Video Layout |
-|-----------|--------------|
-| ![Screenshot](./screenshots/homepage.png) | ![Screenshot](./screenshots/video-layout.png) |
-
-> *(Replace these screenshot paths with actual images from your project if you add them)*
+ Home Page 
+ 
+ ![Screenshot](./screenshots/image.png) 
 
 ## 🛠️ Built With
 
 - HTML5
 - CSS3
 - Flexbox
+- Grid
 - Responsive Web Design
-
-## 📁 Project Structure
-
 
 ## 📌 Features
 
